@@ -1,2 +1,2 @@
 # ML-impl
-Archived (naive) implementations for some (simple) machine learning algorithms.
+Archived (naive) implementations/tools for some (simple) machine learning algorithms.
